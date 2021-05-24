@@ -1,0 +1,6 @@
+1. SINGLE módban sikeres tüzelés.
+2. ALL módban sikeres tüzelés.
+3. SINGLE módban az első (a sorban következő) üres, ezért a másik tüzelése sikeres csak.
+4. SINGLE módban sikertelen tüzelés.
+5. ALL módban sikertelen tüzelés
+6. SINGLE módban felváltva használja a store-okat.
